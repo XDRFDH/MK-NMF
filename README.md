@@ -1,2 +1,2 @@
 # MK-NMF
-How to obtaine feature kermels and use MK-NMF model 
+How to obtain feature kermels and use MK-NMF model 
